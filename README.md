@@ -52,7 +52,7 @@ In the code, access it like this:
 
 Here’s how the app looks:
 
-![Weather App Screenshot](./screenshots/hero.png)
+![Weather App Screenshot](./screenshots/weather-screenshot.png)
 
 ---
 
